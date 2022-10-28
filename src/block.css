@@ -1,0 +1,18 @@
+
+.wrp {
+  margin: 0 auto;
+  width: 400px;
+  padding: 20px;
+  border: 1px solid #f4f4f4;
+}
+.wrp h2 {
+  text-align: center;
+}
+.wrp-info {
+  text-align: center;
+}
+.wrp-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
